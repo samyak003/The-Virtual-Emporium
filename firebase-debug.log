@@ -1,0 +1,76 @@
+[debug] [2023-04-08T06:08:02.003Z] ----------------------------------------------------------------------
+[debug] [2023-04-08T06:08:02.005Z] Command:       /home/samyak/.nvm/versions/node/v16.13.2/bin/node /home/samyak/.nvm/versions/node/v16.13.2/bin/firebase emulators:start
+[debug] [2023-04-08T06:08:02.005Z] CLI Version:   11.2.0
+[debug] [2023-04-08T06:08:02.005Z] Platform:      linux
+[debug] [2023-04-08T06:08:02.006Z] Node Version:  v16.13.2
+[debug] [2023-04-08T06:08:02.010Z] Time:          Sat Apr 08 2023 11:38:02 GMT+0530 (India Standard Time)
+[debug] [2023-04-08T06:08:02.010Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-08T06:08:02.077Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-08T06:08:02.077Z] > authorizing via signed-in user (samyakjain003@gmail.com)
+[info] i  emulators: Starting emulators: functions {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: functions"}}
+[debug] [2023-04-08T06:08:02.095Z] [hub] writing locator at /tmp/hub-the-virtual-emporium.json
+[warn] ⚠  functions: The following emulators are not running, calls to these services from the Functions emulator will affect production: auth, firestore, database, hosting, pubsub, storage {"metadata":{"emulator":{"name":"functions"},"message":"The following emulators are not running, calls to these services from the Functions emulator will affect production: \u001b[1mauth, firestore, database, hosting, pubsub, storage\u001b[22m"}}
+[info] i  emulators: Shutting down emulators. {"metadata":{"emulator":{"name":"hub"},"message":"Shutting down emulators."}}
+[info] i  functions: Stopping Functions Emulator {"metadata":{"emulator":{"name":"functions"},"message":"Stopping Functions Emulator"}}
+[info] i  hub: Stopping emulator hub {"metadata":{"emulator":{"name":"hub"},"message":"Stopping emulator hub"}}
+[debug] [2023-04-08T06:08:02.132Z] Error: Cannot find module '/home/samyak/react/Amazon-Clone/functions/package.json'
+Require stack:
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/commandUtils.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/database-get.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/index.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/index.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/bin/firebase.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at FunctionsEmulator.getNodeBinary (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js:576:21)
+    at FunctionsEmulator.start (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js:192:39)
+    at Function.start (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/registry.js:16:24)
+    at startEmulator (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js:99:39)
+    at Object.startAll (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js:333:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Command.actionFn (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/emulators-start.js:29:35)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-04-08T06:08:13.685Z] ----------------------------------------------------------------------
+[debug] [2023-04-08T06:08:13.687Z] Command:       /home/samyak/.nvm/versions/node/v16.13.2/bin/node /home/samyak/.nvm/versions/node/v16.13.2/bin/firebase emulators:start
+[debug] [2023-04-08T06:08:13.688Z] CLI Version:   11.2.0
+[debug] [2023-04-08T06:08:13.688Z] Platform:      linux
+[debug] [2023-04-08T06:08:13.688Z] Node Version:  v16.13.2
+[debug] [2023-04-08T06:08:13.689Z] Time:          Sat Apr 08 2023 11:38:13 GMT+0530 (India Standard Time)
+[debug] [2023-04-08T06:08:13.689Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-04-08T06:08:13.766Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-04-08T06:08:13.767Z] > authorizing via signed-in user (samyakjain003@gmail.com)
+[info] i  emulators: Starting emulators: functions {"metadata":{"emulator":{"name":"hub"},"message":"Starting emulators: functions"}}
+[debug] [2023-04-08T06:08:13.808Z] [hub] writing locator at /tmp/hub-the-virtual-emporium.json
+[warn] ⚠  functions: The following emulators are not running, calls to these services from the Functions emulator will affect production: auth, firestore, database, hosting, pubsub, storage {"metadata":{"emulator":{"name":"functions"},"message":"The following emulators are not running, calls to these services from the Functions emulator will affect production: \u001b[1mauth, firestore, database, hosting, pubsub, storage\u001b[22m"}}
+[info] i  emulators: Shutting down emulators. {"metadata":{"emulator":{"name":"hub"},"message":"Shutting down emulators."}}
+[info] i  functions: Stopping Functions Emulator {"metadata":{"emulator":{"name":"functions"},"message":"Stopping Functions Emulator"}}
+[info] i  hub: Stopping emulator hub {"metadata":{"emulator":{"name":"hub"},"message":"Stopping emulator hub"}}
+[debug] [2023-04-08T06:08:13.890Z] Error: Cannot find module '/home/samyak/react/Amazon-Clone/functions/package.json'
+Require stack:
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/commandUtils.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/database-get.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/index.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/index.js
+- /home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/bin/firebase.js
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:933:15)
+    at Function.Module._load (node:internal/modules/cjs/loader:778:27)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at FunctionsEmulator.getNodeBinary (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js:576:21)
+    at FunctionsEmulator.start (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/functionsEmulator.js:192:39)
+    at Function.start (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/registry.js:16:24)
+    at startEmulator (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js:99:39)
+    at Object.startAll (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/emulator/controller.js:333:15)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async Command.actionFn (/home/samyak/.nvm/versions/node/v16.13.2/lib/node_modules/firebase-tools/lib/commands/emulators-start.js:29:35)
+[error] 
+[error] Error: An unexpected error has occurred.

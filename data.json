@@ -1,0 +1,363 @@
+[
+	{
+		"title": "Diamond Stud Earrings",
+		"eta": 4,
+		"price": 2000,
+		"image": "",
+		"features": [
+			"Made with high-quality diamonds and 18k gold",
+			"Classic design that can be dressed up or down",
+			"Secure screw-back closure",
+			"Comes with a certificate of authenticity",
+			"Perfect gift for a special occasion"
+		],
+		"rating": 4.8,
+		"reviews": []
+	},
+	{
+		"title": "Chanel Classic Flap Bag",
+		"eta": 5,
+		"price": 6000,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Signature diamond quilted pattern",
+			"Classic design that never goes out of style",
+			"Can be worn as a shoulder or crossbody bag",
+			"Spacious interior with multiple compartments"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+	{
+		"title": "Rolex Datejust",
+		"eta": 6,
+		"price": 12000,
+		"image": "",
+		"features": [
+			"Made with high-quality materials and Swiss craftsmanship",
+			"Classic and timeless design",
+			"Waterproof and shock-resistant",
+			"Self-winding movement with a 48-hour power reserve",
+			"Comes with a certificate of authenticity"
+		],
+		"rating": 4.9,
+		"reviews": []
+	},
+	{
+		"title": "Claude Monet 'Water Lilies' Painting",
+		"eta": 10,
+		"price": 50000,
+		"image": "",
+		"features": [
+			"Original oil painting by Claude Monet",
+			"Depicts a tranquil pond with water lilies",
+			"Impressionist style",
+			"Framed and ready to hang",
+			"Adds a touch of elegance and sophistication to any room"
+		],
+		"rating": 4.7,
+		"reviews": []
+	},
+	{
+		"title": "Chanel No. 5 Eau de Parfum",
+		"eta": 3,
+		"price": 200,
+		"image": "",
+		"features": [
+			"Iconic fragrance from Chanel",
+			"Floral and powdery scent",
+			"Long-lasting and perfect for special occasions",
+			"Comes in a classic glass bottle with a minimalist design",
+			"Makes a luxurious gift for a loved one"
+		],
+		"rating": 4.6,
+		"reviews": []
+	},
+	{
+		"title": "Cartier Love Bracelet",
+		"eta": 7,
+		"price": 6000,
+		"image": "",
+		"features": [
+			"Made with high-quality 18k gold",
+			"Iconic screw design",
+			"Can be worn alone or stacked",
+			"Comes with a screwdriver for easy fitting",
+			"Symbolizes everlasting love and commitment"
+		],
+		"rating": 4.8,
+		"reviews": []
+	},
+	{
+		"title": "Hermès Birkin Bag",
+		"eta": 9,
+		"price": 20000,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic lock and key closure",
+			"Spacious interior with multiple compartments",
+			"Classic and timeless design",
+			"Comes with a dust bag and raincoat"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+	{
+		"title": "Patek Philippe Nautilus",
+		"eta": 8,
+		"price": 25000,
+		"image": "",
+		"features": [
+			"Made with high-quality materials and Swiss craftsmanship",
+			"Stylish and sporty design",
+			"Water-resistant up to 120 meters",
+			"Self-winding movement with a 45-hour power reserve",
+			"Comes with a certificate of authenticity"
+		],
+		"rating": 4.9,
+		"reviews": []
+	},
+	{
+		"title": "Louis Vuitton Keepall",
+		"eta": 4,
+		"price": 1500,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and canvas",
+			"Iconic monogram pattern",
+			"Spacious interior with multiple compartments",
+			"Can be worn as a shoulder or crossbody bag",
+			"Perfect for weekend getaways or business trips"
+		],
+		"rating": 4.7,
+		"reviews": []
+	},
+	{
+		"title": "Bvlgari Serpenti Watch",
+		"eta": 6,
+		"price": 12000,
+		"image": "",
+		"features": [
+			"Made with high-quality materials and Swiss craftsmanship",
+			"Unique and stylish design inspired by the serpent",
+			"Water-resistant up to 50 meters",
+			"Quartz movement with a 2-year battery life",
+			"Comes with a certificate of authenticity"
+		],
+		"rating": 4.6,
+		"reviews": []
+	},
+	{
+		"title": "Tiffany & Co. Diamond Necklace",
+		"eta": 5,
+		"price": 5000,
+		"image": "",
+		"features": [
+			"Made with high-quality diamonds and platinum",
+			"Elegant and timeless design",
+			"Adjustable chain length for a perfect fit",
+			"Comes with a certificate of authenticity",
+			"Perfect gift for a special occasion"
+		],
+		"rating": 4.8,
+		"reviews": []
+	},
+	{
+		"title": "Gucci Ace Sneakers",
+		"eta": 3,
+		"price": 700,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and canvas",
+			"Iconic bee and star design",
+			"Lace-up closure with a rubber sole",
+			"Comes with a dust bag and extra laces",
+			"Perfect for adding a touch of luxury to a casual outfit"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+	{
+		"title": "Yves Saint Laurent Tribute Sandals",
+		"eta": 4,
+		"price": 1000,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic tribute design with a platform sole",
+			"Adjustable ankle strap for a perfect fit",
+			"Comes with a dust bag",
+			"Perfect for dressing up any outfit"
+		],
+		"rating": 4.7,
+		"reviews": []
+	},
+	{
+		"title": "Hermès Kelly Bag",
+		"eta": 8,
+		"price": 15000,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic turn-lock closure",
+			"Spacious interior with multiple compartments",
+			"Classic and timeless design",
+			"Comes with a dust bag and raincoat"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+	{
+		"title": "Rolex Datejust",
+		"eta": 9,
+		"price": 12000,
+		"image": "",
+		"features": [
+			"Made with high-quality materials and Swiss craftsmanship",
+			"Elegant and classic design",
+			"Water-resistant up to 100 meters",
+			"Self-winding movement with a 70-hour power reserve",
+			"Comes with a certificate of authenticity"
+		],
+		"rating": 4.9,
+		"reviews": []
+	},
+	{
+		"title": "Chanel Classic Flap Bag",
+		"eta": 7,
+		"price": 6000,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic diamond-quilted pattern",
+			"Spacious interior with multiple compartments",
+			"Can be worn as a shoulder or crossbody bag",
+			"Comes with a dust bag and authenticity card"
+		],
+		"rating": 4.8,
+		"reviews": []
+	},
+	{
+		"title": "Christian Louboutin So Kate Pumps",
+		"eta": 3,
+		"price": 700,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and a pointed toe",
+			"Iconic red sole",
+			"Slip-on style with a stiletto heel",
+			"Comes with a dust bag",
+			"Perfect for adding a touch of luxury to any outfit"
+		],
+		"rating": 4.7,
+		"reviews": []
+	},
+	{
+		"title": "Hermès Apple Watch",
+		"eta": 5,
+		"price": 1500,
+		"image": "",
+		"features": [
+			"Made with high-quality materials and Swiss craftsmanship",
+			"Stylish and sleek design",
+			"Compatible with the Apple Watch",
+			"Water-resistant up to 50 meters",
+			"Comes with a certificate of authenticity"
+		],
+		"rating": 4.6,
+		"reviews": []
+	},
+	{
+		"title": "Tom Ford Private Blend Perfume",
+		"eta": 2,
+		"price": 300,
+		"image": "",
+		"features": [
+			"Made with high-quality ingredients and craftsmanship",
+			"Sophisticated and luxurious scent",
+			"Long-lasting fragrance",
+			"Comes in a stylish glass bottle",
+			"Perfect for adding a touch of luxury to any outfit"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+
+	{
+		"title": "Gucci GG Marmont Matelassé Wallet",
+		"eta": 4,
+		"price": 600,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Matelassé chevron pattern",
+			"Spacious interior with multiple compartments",
+			"Zip-around closure",
+			"Comes with a dust bag and box"
+		],
+		"rating": 4.8,
+		"reviews": []
+	},
+	{
+		"title": "Bulgari Serpenti Forever Shoulder Bag",
+		"eta": 8,
+		"price": 3500,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic serpent head closure",
+			"Spacious interior with a zip pocket",
+			"Can be worn as a shoulder or crossbody bag",
+			"Comes with a dust bag and authenticity card"
+		],
+		"rating": 4.7,
+		"reviews": []
+	},
+	{
+		"title": "Louis Vuitton Speedy Bandoulière 30",
+		"eta": 6,
+		"price": 1500,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic monogram canvas print",
+			"Spacious interior with a zip pocket",
+			"Can be worn as a handbag or shoulder bag",
+			"Comes with a dust bag and box"
+		],
+		"rating": 4.6,
+		"reviews": []
+	},
+	{
+		"title": "Prada Cahier Shoulder Bag",
+		"eta": 9,
+		"price": 2900,
+		"image": "",
+		"features": [
+			"Made with high-quality leather and gold-tone hardware",
+			"Iconic book-style design",
+			"Spacious interior with multiple compartments",
+			"Can be worn as a shoulder or crossbody bag",
+			"Comes with a dust bag and authenticity card"
+		],
+		"rating": 4.5,
+		"reviews": []
+	},
+	{
+		"title": "Dior J'adore Eau de Parfum",
+		"eta": 2,
+		"price": 120,
+		"image": "",
+		"features": [
+			"Made with high-quality ingredients and craftsmanship",
+			"Elegant and feminine scent",
+			"Long-lasting fragrance",
+			"Comes in a stylish glass bottle",
+			"Perfect for any occasion"
+		],
+		"rating": 4.4,
+		"reviews": []
+	}
+]
